@@ -1,3 +1,3 @@
 # hello-world
 my_first_repository
-I_am_a kind_hearted_person_but scared_to love_again
+IT_is_Life_and_Life_is_IT
